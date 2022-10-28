@@ -2,4 +2,4 @@
 
 # Language: C++
 
-Just enter your eqaution as you wanrt= ==       
+Just enter your eqaution and press enter
